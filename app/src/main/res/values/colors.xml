@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="red">#E64B33</color>
+    <color name="yellow_light">#F8E112</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="color_title">#23A78D</color>
+    <color name="color_confirm">#FD836B</color>
+    <color name="color_recover">#23A78D</color>
+    <color name="color_hospitalize">#31C9E0</color>
+    <color name="color_death">#F55861</color>
+    <color name="color_new_hospitalize">#F4A54D</color>
+</resources>

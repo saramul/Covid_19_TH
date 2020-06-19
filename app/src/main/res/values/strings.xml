@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Covid-19 TH</string>
+    <string name="status">สถานการณ์ Covid-19 ปัจจุบัน</string>
+    <string name="thailand">ในประเทศไทย</string>
+    <string name="confirm">ผู้ป่วยยืนยัน</string>
+    <string name="recover">หายป่วยแล้ว</string>
+    <string name="hospitalize">รักษาตัวอยู่</string>
+    <string name="death">เสียชีวิต</string>
+    <string name="newhospitalize">ผู้ป่วยใหม่</string>
+    <string name="last_update">last update:</string>
+</resources>
